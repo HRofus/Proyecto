@@ -1,0 +1,19 @@
+header {
+    text-align: center;
+}
+
+body {
+    background-color: rgb(147, 245, 240);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: rgb(49, 21, 84);
+}
+.gallery{
+    display:flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+.im{
+    height: 300px;
+    width: 220px;
+}
